@@ -1,0 +1,18 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Rowdies', cursive;
+    background-color: #D3D3D3;
+}
+
+canvas{
+    border: dashed 10px black;
+}
+
+h1{
+    font-size: 50px;
+}
